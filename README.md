@@ -26,10 +26,6 @@ The analysis pipeline covers:
 ```
 CV-star-light-curve-analysis/
 │
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
 ├── data/
 │   ├── raw/              # Original downloaded TESS & WISE data (not tracked by git)
 │   └── processed/        # Cleaned and detrended light curves
@@ -51,10 +47,13 @@ CV-star-light-curve-analysis/
 │   ├── figures/              # Output plots (light curves, periodograms, phase curves)
 │   └── tables/               # Period tables and numerical results
 │
-└── report/
-    ├── thesis.pdf
-    ├── thesis_summary.pdf
-    └── presentation.pdf
+├── report/
+│   ├── thesis.pdf
+│   ├── thesis_summary.pdf
+│   └── presentation.pdf
+│
+├── LICENSE
+└── README.md
 ```
 
 ---
