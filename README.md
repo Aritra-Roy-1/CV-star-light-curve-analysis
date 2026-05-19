@@ -30,6 +30,14 @@ CV-star-light-curve-analysis/
 │   ├── 00_LOMS.ipynb           # 
 │   └── 01_LOMS_Addendum.ipynb  # 
 │
+├── references/
+│   ├── 01
+│   ├── 02
+│   ├── 03
+│   ├── 04
+│   ├── 05
+│   └── 06
+│
 ├── report/
 │   ├── presentation.pdf        # presentation as part of dissertation defence
 │   ├── thesis.pdf              # Dissertation thesis
