@@ -89,7 +89,7 @@ CV-star-light-curve-analysis/
 - WISE: 185-minute cadence → sparsely sampled data → median-normalisation (robust against outliers and irregular sampling) → cubic polynomial detrending to remove long-term secular trends
 
 ### 3. Period Analysis (Lomb-Scargle)
-The Lomb-Scargle Periodogram is used instead of the classical FFT-based approach because WISE data is irregularly sampled. Implemented via `astropy.timeseries.LombScargle`. Frequencies from P ~ 0.1 d to P ~ 30 d were searched.
+The Lomb-Scargle Periodogram is used instead of the classical Fast Fourier Transform (FFT)-based approach because WISE data is irregularly sampled. Implemented via `astropy.timeseries.LombScargle`. Frequencies from P ~ 0.1 d to P ~ 30 d were searched. The best period is indicated by the frequency with the highest power; other significant peaks are detected and listed for further analysis.
 
 **Significant peaks detected:**
 
