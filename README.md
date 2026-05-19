@@ -1,9 +1,9 @@
 # Data Acquisition and Analysis of the Cataclysmic Variable Binary — 1RXS J064434.5+334451
 
-**Master's Thesis | M.Sc. Physics (Spectroscopy)**
+**Master's Dissertation Work | Aritra Roy | M.Sc. Physics (Spectroscopy)**
 **Maharaja Sayajirao University of Baroda, 2023–25**
 
-> Photometric time-series analysis of a cataclysmic variable binary using TESS and WISE/NEOWISE data to determine the orbital period through Lomb-Scargle periodogram analysis and phase-folded light curves.
+> This dissertation work presents a photometric and orbital analysis of the cataclysmic variable (CV) star system 1RXS J064434.5+334451, a high-inclination eclipsing binary composed of a white dwarf accreting material from a low-mass main-sequence companion. Utilizing publicly available data from the Transiting Exoplanet Survey Satellite (TESS) and the Wide-field Infrared Survey Explorer (WISE), the study investigates brightness variability and periodic behavior.
 
 ---
 
