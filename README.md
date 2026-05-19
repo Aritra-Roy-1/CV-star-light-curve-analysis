@@ -24,7 +24,7 @@ The analysis pipeline covers:
 ## Repository Structure
 
 ```
-cv-binary-analysis/
+CV-star-light-curve-analysis/
 │
 ├── README.md
 ├── requirements.txt
