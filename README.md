@@ -1,15 +1,15 @@
 # Data Acquisition and Analysis of the Cataclysmic Variable Binary — 1RXS J064434.5+334451
 
 **Master's Dissertation Work | Aritra Roy | M.Sc. Physics (Spectroscopy)**
-**Maharaja Sayajirao University of Baroda, 2023–25**
+**Maharaja Sayajirao University of Baroda | 2023–25**
 
-> This dissertation work presents a photometric and orbital analysis of the cataclysmic variable (CV) star system 1RXS J064434.5+334451, a high-inclination eclipsing binary composed of a white dwarf accreting material from a low-mass main-sequence companion. Utilizing publicly available data from the Transiting Exoplanet Survey Satellite (TESS) and the Wide-field Infrared Survey Explorer (WISE), the study investigates brightness variability and periodic behavior.
+> This dissertation work presents a photometric and orbital analysis of a cataclysmic variable (CV) star system, Utilizing publicly available data from the Transiting Exoplanet Survey Satellite (TESS) and the Wide-field Infrared Survey Explorer (WISE). The study investigates brightness variability and periodic behaviour.
 
 ---
 
 ## Overview
 
-Cataclysmic Variable (CV) stars are close, interacting binary systems in which a white dwarf accretes matter from a Roche-lobe-overflowing low-mass companion (typically a red dwarf). This project investigates the photometric variability of **1RXS J064434.5+334451**, a known high-inclination eclipsing CV, using multi-wavelength space-based survey data.
+Cataclysmic Variable (CV) stars are close, interacting binary systems in which a white dwarf accretes matter from a Roche-lobe-overflowing low-mass companion (typically a red dwarf). This project investigates the photometric variability of **1RXS J064434.5+334451**, a known high-inclination eclipsing CV, composed of a white dwarf accreting material from a low-mass main-sequence companion, using multi-wavelength space-based survey data.
 
 The analysis pipeline covers:
 - Light curve extraction from **TESS** (optical, 2-min cadence) and **WISE/NEOWISE** (infrared W1 & W2 bands)
