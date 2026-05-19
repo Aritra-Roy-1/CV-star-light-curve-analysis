@@ -26,31 +26,18 @@ The analysis pipeline covers:
 ```
 CV-star-light-curve-analysis/
 │
-├── data/
-│   ├── raw/              # Original downloaded TESS & WISE data (not tracked by git)
-│   └── processed/        # Cleaned and detrended light curves
-│
 ├── notebooks/
-│   ├── 00_lomb_scargle_demo.ipynb          # Pedagogical demo: LS periodogram on synthetic data
-│   ├── 01_data_loading.ipynb               # TESS & WISE light curve extraction
-│   ├── 02_cleaning_detrending.ipynb        # Normalisation, outlier removal, polynomial detrending
-│   ├── 03_lomb_scargle_analysis.ipynb      # Lomb-Scargle periodogram for all datasets
-│   ├── 04_phase_curves_results.ipynb       # Phase-folded light curves and period confirmation
-│   └── 05_secondary_target_exploration.ipynb  # Exploratory analysis of secondary CV target
+│   ├── 00_LOMS.ipynb           # 
+│   └── 01_LOMS_Addendum.ipynb  # 
 │
-├── src/
-│   ├── data_processing.py    # Light curve loading and cleaning utilities
-│   ├── analysis.py           # Lomb-Scargle and period analysis functions
-│   └── plotting.py           # Reusable plotting functions
+├── report/
+│   ├── presentation.pdf        # presentation as part of dissertation defence
+│   ├── thesis.pdf              # Dissertation thesis
+│   └── summary.pdf             #
 │
 ├── results/
 │   ├── figures/              # Output plots (light curves, periodograms, phase curves)
 │   └── tables/               # Period tables and numerical results
-│
-├── report/
-│   ├── thesis.pdf
-│   ├── thesis_summary.pdf
-│   └── presentation.pdf
 │
 ├── LICENSE
 └── README.md
