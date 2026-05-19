@@ -64,9 +64,8 @@ CV-star-light-curve-analysis/
 | TESS Input Catalog ID | TIC 240122720 |
 | ROSAT All-Sky Survey ID | 1RXS J064434.5+334451 |
 | Derived P_orb | 0.26905 days (~6.46 hr) |
-| Literature P_orb | 0.26937446 days (Hernández Santisteban et al. 2017)
-0.26937447(4) days (Sing et al.
-2007) |
+| Literature P_orb 1 | 0.26937446 days (Hernández Santisteban et al. 2017) |
+| Literature P_orb 2 | 0.26937447(4) days (Sing et al. 2007) |
 
 ---
 
