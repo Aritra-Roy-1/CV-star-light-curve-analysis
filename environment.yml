@@ -1,0 +1,18 @@
+name: cv-analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy>=1.24
+  - pandas>=2.0
+  - scipy>=1.11
+  - matplotlib>=3.7
+  - astropy>=5.3
+  - notebook>=7.0
+  - ipykernel>=6.25
+  - pip
+  - pip:
+    - lightkurve>=2.4.0
+    - astroquery>=0.4.6
+    - tglc>=1.0.0
