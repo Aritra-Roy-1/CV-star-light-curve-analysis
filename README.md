@@ -73,8 +73,8 @@ CV-star-light-curve-analysis/
 
 | Notebook | Description |
 |---|---|
-| `00_LOMS.ipynb` | Illustrates how the Lomb-Scargle method works on synthetic unevenly sampled data; comparison with classical periodogram |
-| `01_LOMS_Addendum.ipynb` | Downloads TESS light curve via `lightkurve`; retrieves WISE/NEOWISE W1 & W2 magnitudes via `astroquery`; computes cadence |
+| `00_LOMS.ipynb` |  |
+| `01_LOMS_Addendum.ipynb` |  |
 
 ---
 
