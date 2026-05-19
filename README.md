@@ -85,8 +85,8 @@ CV-star-light-curve-analysis/
 - **WISE/NEOWISE**: (Wide-field Infrared Survey Explorer)/ (Near-Earth Object WISE): mid-infrared W1 (3.4 µm) and W2 (4.6 µm) bands, ~185-minute cadence, accessed via IRSA using `astroquery.ipac.irsa`
 
 ### 2. Data Cleaning
-- TESS: mean-normalisation → NaN removal → 3σ outlier clipping
-- WISE: median-normalisation → cubic polynomial detrending to remove long-term secular trends
+- TESS: 2-minute cadence (high) → finely sampled data → mean-normalisation (sensitive to outliers) → NaN removal → 3σ outlier clipping
+- WISE: 185-minute cadence (low) → sparsely sampled data → median-normalisation (less sensitive to outliers and irregular sampling) → cubic polynomial detrending to remove long-term secular trends
 
 ### 3. Period Analysis (Lomb-Scargle)
 The Lomb-Scargle Periodogram is used instead of the classical FFT-based approach because WISE data is irregularly sampled. Implemented via `astropy.timeseries.LombScargle`. Frequencies from P ~ 0.1 d to P ~ 30 d were searched.
