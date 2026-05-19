@@ -73,12 +73,8 @@ CV-star-light-curve-analysis/
 
 | Notebook | Description |
 |---|---|
-| `00_lomb_scargle_demo.ipynb` | Illustrates how the Lomb-Scargle method works on synthetic unevenly sampled data; comparison with classical periodogram |
-| `01_data_loading.ipynb` | Downloads TESS light curve via `lightkurve`; retrieves WISE/NEOWISE W1 & W2 magnitudes via `astroquery`; computes cadence |
-| `02_cleaning_detrending.ipynb` | Applies normalisation, NaN removal, 3σ outlier rejection to TESS data; fits and subtracts cubic polynomial trend from WISE |
-| `03_lomb_scargle_analysis.ipynb` | Computes Lomb-Scargle periodograms for TESS, WISE W1, WISE W2; identifies significant peaks |
-| `04_phase_curves_results.ipynb` | Phase-folds all light curves at P = 0.1345 d and 2P = 0.26905 d; confirms true orbital period from double-eclipse morphology |
-| `05_secondary_target_exploration.ipynb` | Exploratory pipeline run on secondary CV target (2MASS J09253483+4349179) |
+| `00_LOMS.ipynb` | Illustrates how the Lomb-Scargle method works on synthetic unevenly sampled data; comparison with classical periodogram |
+| `01_LOMS_Addendum.ipynb` | Downloads TESS light curve via `lightkurve`; retrieves WISE/NEOWISE W1 & W2 magnitudes via `astroquery`; computes cadence |
 
 ---
 
