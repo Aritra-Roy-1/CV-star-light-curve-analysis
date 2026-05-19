@@ -82,7 +82,7 @@ CV-star-light-curve-analysis/
 
 ### 1. Data Sources
 - **TESS** (Transiting Exoplanet Survey Satellite): broadband optical (0.6–1.0 µm), 2-minute cadence, accessed via MAST archive using `lightkurve`
-- **WISE/NEOWISE**: mid-infrared W1 (3.4 µm) and W2 (4.6 µm) bands, ~185-minute cadence, accessed via IRSA using `astroquery`
+- **WISE/NEOWISE**: (Wide-field Infrared Survey Explorer)/ (Near-Earth Object WISE): mid-infrared W1 (3.4 µm) and W2 (4.6 µm) bands, ~185-minute cadence, accessed via IRSA using `astroquery.ipac.irsa`
 
 ### 2. Data Cleaning
 - TESS: mean-normalisation → NaN removal → 3σ outlier clipping
