@@ -31,12 +31,14 @@ CV-star-light-curve-analysis/
 │   └── 01_LOMS_Addendum.ipynb  # 
 │
 ├── references/
-│   ├── 01
-│   ├── 02
-│   ├── 03
-│   ├── 04
-│   ├── 05
-│   └── 06
+│   ├── 00_Coel_Hellier_2001.pdf                   # book on Cataclysmic Variable Binaries
+│   ├── 01_SIMBAD_2000.pdf                         # SIMBAD Astronomical Database
+│   ├── 02_WISE_2010.pdf                           # WISE mission paper
+│   ├── 02_TESS_2015.pdf                           # TESS mission paper
+│   ├── 04_Vanderplas_2018.pdf                     # paper on Lomb-Scargle Periodograms
+│   ├── 05_Osaki_1974.pdf                          # paper on accretion disk instability theory in CVs
+│   ├── 06_Hernández_Santisteban_et_al_2017.pdf    # paper on detailed study of the target CV system
+│   └── 07_Sing_et_al_2007.pdf                     # paper on detailed study of the target CV system
 │
 ├── report/
 │   ├── presentation.pdf        # presentation as part of dissertation defence
