@@ -167,8 +167,8 @@ See `requirements.txt`. Key packages:
 
 ## Supervisors
 
-- **Dr. Vishal Joshi** — Scientist, Astronomy and Astrophysics Division, Physical Research Laboratory, Ahmedabad
 - **Dr. Kanti Jotania** — Associate Professor, Department of Physics, M.S. University of Baroda
+- **Dr. Vishal Joshi** — Scientist, Astronomy and Astrophysics Division, Physical Research Laboratory, Ahmedabad
 
 ---
 
