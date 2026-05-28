@@ -60,14 +60,14 @@ CV-star-light-curve-analysis/
 | Parameter | Value |
 |---|---|
 | Object ID | 1RXS J064434.5+334451 |
+| TESS Input Catalog ID | TIC 240122720 |
+| ROSAT All-Sky Survey ID | 1RXS J064434.5+334451 |
 | Object Type | Cataclysmic Variable (CV) |
 | RA | 06h 44m 34.637s |
 | Dec | +33° 44′ 56.615″ |
-| TESS Input Catalog ID | TIC 240122720 |
-| ROSAT All-Sky Survey ID | 1RXS J064434.5+334451 |
-| Derived P_orb | 0.26905 days (~6.46 hr) |
 | Literature P_orb 1 | 0.26937446 days (Hernández Santisteban et al. 2017) |
 | Literature P_orb 2 | 0.26937447(4) days (Sing et al. 2007) |
+| Derived P_orb | 0.26905 days (~6.46 hr) |
 
 ---
 
